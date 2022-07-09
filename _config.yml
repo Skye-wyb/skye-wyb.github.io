@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/Skye-wyb/Skye-wyb.github.io.git
-  branch: master
+  branch: main
